@@ -18,7 +18,7 @@ El objetivo principal de esta plataforma es compartir películas de terror y ser
 
 ## Imágenes 📷
 
-![Login de RUFUS](capturas/login.png)
+![Login de RUFUS](../capturas/login.png)
 ![Películas](capturas/peliculas1.png)
 ![Películas](capturas/peliculas2.png)
 ![Película-detalles](capturas/peliculas-detalles.png)
